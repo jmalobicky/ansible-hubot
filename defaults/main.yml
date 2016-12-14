@@ -113,9 +113,9 @@ hubot_external_scripts:
 #
 #############################################################################
 
-# hubot_custom_scripts:
+hubot_custom_scripts:
+   - dogatcomputer.coffee
 #   - caseofmondays.coffee
-#   - dogatcomputer.coffee
 #   - ignoreme.coffee
 
 #############################################################################
